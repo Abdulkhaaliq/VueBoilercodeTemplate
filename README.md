@@ -1,6 +1,9 @@
-# Modern Vue.js Landing Page
+# Boilerplate Vue.js template
 
-A beautiful, responsive landing page built with Vue.js 3, featuring a parallax hero section, services showcase, and contact form.
+
+# Please Note
+- When starting off a new project. Clone this repository and change the dummy name and delete the git folder as you would not want to commit to this repo
+- I Will update when necessary this project to keep it up to date with packages and best practices
 
 ## Features
 
